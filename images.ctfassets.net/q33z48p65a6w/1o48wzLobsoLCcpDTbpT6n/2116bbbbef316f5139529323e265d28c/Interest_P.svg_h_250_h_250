@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>1909_Website_Icons_final</title>
+  <g id="b27862ec-923c-4364-9b27-842934b4653a" data-name="Grid">
+    <circle cx="32" cy="32" r="32" fill="#d2e0e4"/>
+    <line x1="17.03" y1="44.64" x2="49.03" y2="44.64" fill="none" stroke="#1f1f1f" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2.5"/>
+    <line x1="21.44" y1="40.82" x2="21.44" y2="29.4" fill="none" stroke="#1f1f1f" stroke-miterlimit="10" stroke-width="2.5"/>
+    <line x1="42.85" y1="40.82" x2="42.85" y2="17.15" fill="none" stroke="#266678" stroke-miterlimit="10" stroke-width="2.5"/>
+    <path d="M38.4,21l4.31-3.88a.2.2,0,0,1,.27,0L47.3,21" fill="none" stroke="#266678" stroke-miterlimit="10" stroke-width="2.5"/>
+    <line x1="32.14" y1="40.82" x2="32.14" y2="25.3" fill="none" stroke="#1f1f1f" stroke-miterlimit="10" stroke-width="2.5"/>
+  </g>
+</svg>
